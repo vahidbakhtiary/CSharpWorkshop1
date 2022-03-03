@@ -19,11 +19,7 @@ namespace Project1
             InitializeComponent();
 
 
-            int varInt = 10;
-            float varFloat = 10.5f;
-            bool varBool = true;
-            char varChar = 'A';
-            string varStr = "ALI";
+           
 
         }
 
